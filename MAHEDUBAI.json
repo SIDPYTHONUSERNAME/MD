@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "name": "BBA (Day)",
+      "duration": "3 years",
+      "annual_tuition_fee": "AED forty seven thousand seven hundred and seventy five",
+      "credits": "thirty one"
+    },
+    {
+      "name": "BBA (Evening)",
+      "duration": "3 years",
+      "annual_tuition_fee": "AED forty one thousand one hundred and seventy five ",
+      "credits": "thirty one"
+    },
+    {
+      "name": "BCom - Professional",
+      "duration": "3 years",
+      "annual_tuition_fee": "AED forty two thousand",
+      "credits": "thirty"
+    },
+    {
+      "name": "BCom - Professional (with ACCA)",
+      "duration": "3 years",
+      "annual_tuition_fee": "AED forty two thousand plus ten thousand two hundred for acca fees",
+      "credits": "thirty"
+    },
+    {
+      "name": "BArch or Architecture",
+      "duration": "5 years",
+      "annual_tuition_fee": "AED Fifty thousand and four hundred",
+      "credits": "thirty two"
+    }
+  ],
+  "extracurriculars": [
+    "Dance Club",
+    "Music Club",
+    "Environment Club",
+    "Google Developers Club",
+    "Photography Club",
+    "Literary Club",
+    "Drama Club",
+    "Sports Club",
+    "Entrepreneurship Club",
+    "Robotics Club",
+    "Debate Club",
+    "Cultural Club",
+    "Coding Club",
+    "Art & Craft Club",
+    "Public Speaking Club"
+  ],
+  "events": [
+    "Carnival",
+    "Confluence",
+    "Utsav",
+    "ARCHITEXTURE 2025",
+    "MAHE Dubai Open House",
+    "WoW Manipal Dubai - Freshmen Orientation Week",
+    "3-Day Acting Masterclass",
+    "Inter-University Competitions",
+    "Workshops & Seminars",
+    "Cultural Festivals"
+  ],
+  "contacts": {
+    "general": {
+      "phone": "+971 4 4290 888",
+      "email": "info@manipaldubai.com"
+    },
+    "admissions": {
+      "phone": "+971 4 4290 777",
+      "email": "admissions@manipaldubai.com"
+    },
+    "whatsapp": "+971 50 1318681"
+  }
+}
