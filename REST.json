@@ -1,0 +1,170 @@
+{
+  "restaurant": {
+    "name": "Calicut Notebook",
+    "description": "A Kerala fusion food restaurant offering traditional and inspired dishes from around the world.",
+    "established": 2012,
+    "website": "https://www.calicutnotebook.com/",
+    "social_media": {
+      "instagram": "https://www.instagram.com/calicutnotebook"
+    }
+  },
+  "menu": {
+    "starters": [
+      {"name": "Kanthari Cheriyulli Chammanthi", "price": "AED 15.50"},
+      {"name": "Idicha Beef", "price": "AED 22.75"},
+      {"name": "Chemmeen Podi", "price": "AED 20.50"},
+      {"name": "Spicy Raw Mango Salad", "price": "AED 18.75"},
+      {"name": "Cream of Chicken Soup", "price": "AED 16.80"},
+      {"name": "Sweet Corn Chicken Soup", "price": "AED 16.80"},
+      {"name": "Hot and Sour Chicken Soup", "price": "AED 16.80"}
+    ],
+    "soups": [
+      {"name": "Tom Yum Soup", "price": "AED 16.80"},
+      {"name": "Cream of Mushroom", "price": "AED 16.80"}
+    ],
+    "main_course": [
+      {"name": "Bamboo Biriyani", "price": "AED 34.75"},
+      {"name": "BBQ Chicken Biriyani", "price": "AED 37.50"},
+      {"name": "Blanket Fish", "price": "AED 40.25"},
+      {"name": "Pandanas Chicken", "price": "AED 36.50"}
+    ],
+    "meals": [
+      {"name": "Kerala Sadya", "price": "AED 30.75"},
+      {"name": "Malabar Parotta with Beef Curry", "price": "AED 28.50"},
+      {"name": "Fish Curry with Rice", "price": "AED 32.75"}
+    ],
+    "beverages": {
+      "hot": [
+        {"name": "Black Coffee", "price": "AED 15.75"},
+        {"name": "Masala Tea", "price": "AED 15.75"},
+        {"name": "Green Tea", "price": "AED 15.75"}
+      ],
+      "cold": [
+        {"name": "Lime Juice", "price": "AED 15.75"},
+        {"name": "Fresh Fruit Juice", "price": "AED 15.75"},
+        {"name": "Avocado Shake", "price": "AED 15.75"},
+        {"name": "Banana Shake", "price": "AED 15.75"},
+        {"name": "Lassi", "price": "AED 15.75"},
+        {"name": "Fruit Lassi", "price": "AED 15.75"},
+        {"name": "Lime Soda", "price": "AED 15.75"},
+        {"name": "Dates Juice", "price": "AED 15.75"},
+        {"name": "Mango Juice", "price": "AED 15.75"},
+        {"name": "Passion Fruit Juice", "price": "AED 15.75"},
+        {"name": "Nuts Juice", "price": "AED 15.75"}
+      ],
+      "mocktails": [
+        {"name": "Passion Fruit Ginger Ale", "price": "AED 15.75"},
+        {"name": "Green Fire", "price": "AED 15.75"},
+        {"name": "Green Angel Mango", "price": "AED 15.75"},
+        {"name": "Kairali", "price": "AED 15.75"},
+        {"name": "Planters Puncho", "price": "AED 15.75"}
+      ]
+    },
+    "desserts": [
+      {"name": "Banana Crepe", "price": "AED 15.75"},
+      {"name": "Gulab Jamun", "price": "AED 12.50"},
+      {"name": "Carrot Halwa", "price": "AED 14.75"},
+      {"name": "Chocolate Lava Cake", "price": "AED 18.50"}
+    ]
+  },
+  "signature_dishes": [
+    {"name": "Pandanas Chicken", "price": "AED 36.50"},
+    {"name": "Bamboo Biriyani", "price": "AED 34.75"},
+    {"name": "Blanket Fish", "price": "AED 40.25"},
+    {"name": "Thai Mango Salad", "price": "AED 25.75"},
+    {"name": "Banana Crepe", "price": "AED 15.75"},
+    {"name": "BBQ Chicken Biriyani", "price": "AED 37.50"}
+  ],
+  "locations": [
+    {
+      "name": "Deira, Dubai",
+      "address": "Next to United Hypermarket, Deira, Dubai, UAE",
+      "contact": {
+        "phone": "+971 4 265 3336",
+        "mobile": "+971 52 645 9071",
+        "email": "infocnb@calicutnotebook.com"
+      }
+    },
+    {
+      "name": "Al Qusais, Dubai",
+      "address": "Level 1, Lulu Hypermarket, Al Qusais, Dubai",
+      "contact": {
+        "phone": "+971 4 280 8254",
+        "mobile": "+971 52 645 9074"
+      }
+    },
+    {
+      "name": "Sharjah",
+      "address": "Near Clock Tower Roundabout, Sharjah",
+      "contact": {
+        "phone": "+971 6 651 8338",
+        "mobile": "+971 52 645 9073"
+      }
+    },
+    {
+      "name": "Abu Dhabi",
+      "address": "Level 2, Madinat Zayed Shopping Centre, Abu Dhabi",
+      "contact": {
+        "phone": "+971 2 627 8644",
+        "mobile": "+971 52 645 9075"
+      }
+    },
+    {
+      "name": "Al Barsha, Dubai",
+      "address": "Level 1, Lulu Hypermarket, Al Barsha, Dubai",
+      "contact": {
+        "phone": "+971 52 645 9076",
+        "mobile": "+971 4 354 9166"
+      }
+    },
+    {
+      "name": "Ajman",
+      "address": "Calicut Notebook Catering, Al Jurf 3, Ajman",
+      "contact": {
+        "phone": "+971 6 7491481",
+        "mobile": "+971 52 645 9079"
+      }
+    },
+    {
+      "name": "Kochi, Kerala, India",
+      "address": "Indian Express Building, Kaloor, Cochin, Kerala, India",
+      "contact": {
+        "phone": "+91 484 4862400"
+      }
+    },
+    {
+      "name": "Doha, Qatar",
+      "address": "Midmac Roundabout, Doha, Qatar",
+      "contact": {
+        "phone": "+974 444 22 619",
+        "mobile": "+974 662 22 619"
+      }
+    },
+    {
+      "name": "Edappal, Kerala, India",
+      "address": "2nd floor, Forum Center, Pattambi Road, Edappal, Pincode: 679576, Kerala, India",
+      "contact": {
+        "phone": "+91 494 2083000",
+        "mobile": "+91 80 890 65888"
+      }
+    },
+    {
+      "name": "Eattumanoor, Kottayam, Kerala, India",
+      "address": "Pentagon Hotel, 101 Square, MC Road, Eattumanoor, Kottayam, Kerala, India",
+      "contact": {
+        "phone": "+91 481 2999 000",
+        "mobile": "+91 9447 799 554"
+      }
+    }
+  ],
+  "careers": {
+    "description": "Calicut Notebook invites passionate individuals to join their team. Interested candidates can upload their CVs through the careers section on their website.",
+    "application_url": "https://www.calicutnotebook.com/careers/"
+  },
+  "contact": {
+    "address": "Next to United Hypermarket, Deira, Dubai, UAE",
+    "phone": "+971 4 265 3336",
+    "mobile": "+971 52 645 9071",
+    "email": "infocnb@calicutnotebook.com"
+  }
+}
