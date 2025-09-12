@@ -1,0 +1,179 @@
+{
+  "name": "Saravanaa Bhavan",
+  "tagline": "The World's Favourite South Indian Vegetarian Restaurant",
+  "identity": {
+    "type": "Vegetarian Restaurant Chain",
+    "origin": "Chennai, India",
+    "founded": 1981,
+    "heritage": "Authentic South Indian vegetarian cuisine, rooted in tradition, purity, consistency"
+  },
+  "global_presence": {
+    "number_of_outlets": 104,
+    "countries": 21,
+    "approx_menu_items": 370
+  },
+  "values": {
+    "authenticity": true,
+    "vegetarian_only": true,
+    "quality": "high",
+    "cleanliness": true,
+    "consistency": true
+  },
+  "menu": {
+    "South Indian": [
+      "Hot Idly",
+      "Appam",
+      "Idiyappam",
+      "Ghee Pongal",
+      "Ghee Rava Kichadi",
+      "Ghee Pongal Reg",
+      "WHEAT/MAIDA VARIETIES",
+      "Poori",
+      "Poori",
+      "Parotta",
+      "Chapati",
+      "Chola poori"
+    ],
+    "Quick Starters": [
+      "Medhu Vadai",
+      "Sambar Vadai",
+      "Curd Vadai"
+    ],
+    "Dosa Corner": [
+      "SPL Dosai",
+      "SPL Masala Dosai",
+      "SPL Rava Dosai",
+      "SPL Rava Masala Dosai",
+      "SPL Onion Rava Masala",
+      "SPL Onion Dosai",
+      "Ghee Dosai",
+      "Ghee Paper Roast",
+      "Ghee Paper Roast Masala"
+    ],
+    "Our Specialities": [
+      "Sambar Rice+Appalam/Chips",
+      "Rava Kesari"
+    ],
+    "Rice Corner": [
+      "Sambar Rice+Appalam/Chips"
+    ],
+    "North Indian": [
+      "Kashmiri Naan"
+    ],
+    "Hot Beverages": [
+      "Special Pure Filter Coffee",
+      "Special Tea",
+      "Hot Kesar Badam Milk"
+    ],
+    "Evening Snacks": [
+      "Assorted tofu sticks palak, vazhaipoo, mushroom",
+      "Bath na muthiya",
+      "Cabbage stuffed roll greens, mushroom, vazhaipoo",
+      "Crispy broccoli",
+      "Drumstick tofu",
+      "Grilled mushroom",
+      "Ladies finger salt&pepper",
+      "Mushroom Biryani",
+      "Tilly karela",
+      "Tofu fried rice"
+    ]
+  },
+  "services": {
+    "dine_in": true,
+    "take_away": true,
+    "home_delivery": true,
+    "outdoor_catering": true,
+    "events_and_banquets": true,
+    "sweets_and_savouries": true,
+    "fresh_bakes": true,
+    "dairy_products": true
+  },
+  "other_services": [
+    "Restaurants",
+    "Events",
+    "Banquet",
+    "Saravanaa Sweets & Savouries",
+    "Fresh Bakes",
+    "Saravanaa Dairy Products"
+  ],
+  "special_offerings": [
+    "Dozza (evening service 6pm-10:30pm)",
+    "Thalavaalai Virundhu lunch special",
+    "Real Fruit Ice Creams – no added flavours or preservatives",
+    "Special Filter Coffee",
+    "Ghee overflowing 14 mini-idly set",
+    "Kaima Idly set",
+    "Mirthanya Soup (curry-leaf soup)",
+    "Mini Tiffin combo",
+    "Spl. Vegetable Dum Biryani with raita",
+    "Fresh Pomegranate Juice",
+    "Hot Masala Milk",
+    "Gobi 65"
+  ],
+  "contact_info": {
+    "phone_numbers": ["7708967755", "7401005577"],
+    "email": "feedback@saravanabhavan.com",
+    "facebook_instagram": true,
+    "office_hours": {
+      "Monday_to_Friday": "9am-6pm",
+      "Saturday": "9am-2pm"
+    }
+  },
+  "locations": [
+    "Adyar",
+    "G.S.T Road – Alandur",
+    "Anna Nagar",
+    "Anna Salai",
+    "Ashok Pillar",
+    "Egmore",
+    "Kodambakkam",
+    "K.K. Nagar",
+    "Mylapore",
+    "Maraimalai Nagar",
+    "OMR-Kandanchavadi",
+    "Porur",
+    "Purasawalkam",
+    "R.K. Salai",
+    "Saligramam",
+    "Spencer Plaza",
+    "T.Nagar",
+    "Vadapalani",
+    "Kanchipuram-1",
+    "Kanchipuram-2",
+    "Kanchipuram-3",
+    "Kanchipuram-4",
+    "Vellore",
+    "Punnai Nagar",
+    "Tiruchendur"
+  ],
+  "online_features": {
+    "website_sections": [
+      "Welcome",
+      "About Us",
+      "Delight Frames",
+      "Become a Partner",
+      "Work With Us",
+      "Find Us",
+      "Let's Talk"
+    ],
+    "quick_links": [
+      "About us",
+      "Our menu",
+      "Contact Us",
+      "Other Services",
+      "Careers",
+      "Franchise",
+      "Feedback"
+    ],
+    "order_online_app": {
+      "available": true,
+      "platforms": ["Android", "iOS"]
+    }
+  },
+  "legal_and_misc": {
+    "privacy_policy": true,
+    "terms_and_conditions": true,
+    "copyright": "© Saravanaa Bhavan",
+    "mailbox_email": "hsb@saravanabhavan.com"
+  }
+}
